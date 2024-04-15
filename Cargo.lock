@@ -732,6 +732,7 @@ name = "seamrs"
 version = "0.1.0"
 dependencies = [
  "image",
+ "rand",
 ]
 
 [[package]]
